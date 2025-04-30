@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Степанюк Кирилл Сергеевич] 👨‍💻
 
-<!--
-**ritfer/ritfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"ищу работу, возьмите пж"*  
 
-Here are some ideas to get you started:
+## 📞 Контактная информация
+- **Email:** stepanukkirill070@gmail.com  
+- **Телефон:** +375295480498  
+- **GitHub:** [github.com/ritfer](https://github.com/ritfer)  
+ 
+## 🚀 Обо мне
+Я начинающий разработчик, учучь с БГУИРе на 3 курсе. Имею опыт работы в командных учебных проектах, стремлюсь к профессиональному росту в области Fullstack-разработки.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки
+| Категория       | Технологии                                                                 |
+|-----------------|----------------------------------------------------------------------------|
+| Языки          | JavaScript, Java, С++                                                       |
+| Фреймворки     | React, Spring, Android SDK                                                  |
+| Инструменты    | Git, VS Code, MySQL, Android Studio, Firebase                               |
+
