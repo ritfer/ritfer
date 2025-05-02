@@ -2,7 +2,7 @@
 ******
 *"ищу работу, хочу бмв 👇"*  
 
-![image](https://github.com/user-attachments/assets/a8454ced-6717-47cf-a553-255204f1d753)
+:![image](https://github.com/user-attachments/assets/a8454ced-6717-47cf-a553-255204f1d753):
 ******
 ## 📞 Контактная информация
 - **Email:** stepanukkirill070@gmail.com  
